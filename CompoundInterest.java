@@ -17,9 +17,6 @@ public class CompoundInterest {
 			System.out.println("Enter the time");
 			t = sc.nextDouble();
 		
-			System.out.println("Enter the rate");
-			r = sc.nextDouble();
-			r =r/100;
 			
 			System.out.println("Enter the number of times ci per year");
 			n = sc.nextDouble();
